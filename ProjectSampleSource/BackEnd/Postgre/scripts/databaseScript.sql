@@ -1,8 +1,12 @@
 /*
+** Step 0 - Defect - #0001 Create Database 
+*/
+CREATE DATABASE samples;
+
+/*
 ** Step 1- Create Schema samples
 */
 CREATE SCHEMA samples;
-
 
 /*
 ** Step 2 - Create the table under the samples schema
